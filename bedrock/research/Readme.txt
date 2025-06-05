@@ -1,0 +1,1 @@
+streamlit run bedrock_trials.py
